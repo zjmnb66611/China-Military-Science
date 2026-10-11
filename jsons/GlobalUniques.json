@@ -1,0 +1,21 @@
+{
+  "name": "China Military and Science",
+  "uniques": [
+    "New [Military] units start with [785] XP [in all cities] <for [China] Civilizations> <in cities with a [Military Academy]>",
+    "[2] free [Great Scientist] units appear <for [China] Civilizations> <upon entering a new era>"
+  ],
+  "civilopediaText": [
+    {
+      "text": "中国军事学院原有15经验加上本模组785经验，军事学院贡献合计800经验。"
+    },
+    {
+      "text": "其他经验来源正常叠加；既有单位不追补经验。"
+    },
+    {
+      "text": "中国每进入一个新时代获得2个大科学家，其他文明不受影响。"
+    },
+    {
+      "text": "开局所处时代不另发奖励，重复研究同一时代的科技不会重复赠送。"
+    }
+  ]
+}
